@@ -1,0 +1,50 @@
+
+
+/*Responsive mobile version styling*/
+
+#main{
+	font-family: "arial", verdana, sans-serif;
+	text-align: justify;
+	padding: 10px;
+	margin:10%;
+}
+
+#image{
+	height:auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+#caption{
+	font-size: 14px;
+	text-align: center;
+	font-style: italic;
+	font-size: 12
+}
+h1{
+	font-size: 20;
+	text-align: center;
+}
+p{
+	font-size: 14px;
+	
+}
+
+/*Responsive Desktop version styling*/
+/*-----------------------------------*/
+@media only screen (min-width: 600px){
+
+h1{
+	font-size: 24
+}
+#caption{
+	
+	font-size: 11;
+	
+}
+p{
+	font-size: 12px;
+	padding-right: 25%;
+	padding-left: 25%;
+}
+}

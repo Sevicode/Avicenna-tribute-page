@@ -1,1 +1,1 @@
-# Avicenna-tribute-page
+# frida-tribute-page
