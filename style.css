@@ -1,4 +1,18 @@
 
+@media only screen and (max-width: 600px){
+
+	#video-div{
+		width: 300;
+		height: 400;
+		margin-left: auto;
+ 		margin-right: auto;
+
+	}
+
+}
+
+
+
 main{
 	font-family: "Helvetica",Arial, sans-serif;
 	margin: 5% 5%;
@@ -52,6 +66,7 @@ h2{
  #video-div{
  	margin-left: auto;
  	margin-right: auto;
+ 
  }
 
 
@@ -60,7 +75,18 @@ p{
 	font-size: 100%;
 }
 
+#painting{
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 100%;
+	display: flex;
+	flex-direction: row;
+}
+
+#tribute-link{
+	font-size: 90%;
+}
 footer{
 	text-align: center;
-	font-size: 90%;
+	font-size: 80%;
 }
