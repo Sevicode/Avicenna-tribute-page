@@ -16,8 +16,6 @@ body{
 h1{
 	text-align: center;
 	font-weight: bold;
-	
-
 }
 
 h2{
@@ -48,10 +46,12 @@ img{
 #tribute-info{
 	width: 100%;
 	height: 50%;
-	
-
 }
  
+ #video-div{
+ 	margin-left: auto;
+ 	margin-right: auto;
+ }
 
 
 p{
